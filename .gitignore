@@ -1,0 +1,6 @@
+/.cache
+/compile_commands.json
+/depot_tools
+/webrtc
+/funchook
+/libloader.so
